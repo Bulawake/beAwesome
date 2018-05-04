@@ -83,7 +83,8 @@
 + Облачный атлас - Дэвид Митчелл
 + Javascript. The Good Parts. - Douglas Crockford
 
-## 
+## Март 2018
++ Оно - Стивен Кинг
 
 // TODO
 + Секреты JS ниндзя - Резиг
